@@ -5,8 +5,6 @@ setup(
     version='1.0.0',
     packages=find_packages(),
     install_requires=[
-        # List your dependencies here
-        # For example, if you use random, it's already included in Python
     ],
     entry_points={
         'console_scripts': [
